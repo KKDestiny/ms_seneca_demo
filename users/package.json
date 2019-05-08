@@ -1,0 +1,15 @@
+{
+  "name": "users",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "seneca": "^3.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "linxiaozhou.com",
+  "license": "ISC"
+}
